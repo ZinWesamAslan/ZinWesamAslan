@@ -55,11 +55,14 @@
 
 ---
 
-## 🏆 GitHub Game Trophies
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZinWesamAslan/ZinWesamAslan/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZinWesamAslan/ZinWesamAslan/output/github-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/ZinWesamAslan/ZinWesamAslan/output/github-snake.svg">
+  </picture>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zinwesamaslan&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
-</p>
 
 ---
 
